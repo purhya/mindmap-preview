@@ -17,6 +17,8 @@ body {
 .mm-container {
   flex: 1;
   width: 100%;
+  min-width: 960px;
+  position: relative;
 }
 
 .mm-configuration {
